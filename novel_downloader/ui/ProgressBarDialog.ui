@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>482</width>
+    <height>530</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>下载中</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>pictures/txt_downloader_ico.ico</normaloff>pictures/txt_downloader_ico.ico</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/background/pictures/浅色纹理.jpg);</string>
+  </property>
+  <widget class="QProgressBar" name="progressBar">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>320</y>
+     <width>381</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Muyao-Softbrush</family>
+     <pointsize>16</pointsize>
+     <weight>50</weight>
+     <italic>false</italic>
+     <bold>false</bold>
+    </font>
+   </property>
+   <property name="cursor">
+    <cursorShape>PointingHandCursor</cursorShape>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 2px solid grey; border-radius: 5px; color: #F44336; text-align:center; font-size:20px;
+font: 16pt &quot;Muyao-Softbrush&quot;;</string>
+   </property>
+   <property name="value">
+    <number>80</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>20</y>
+     <width>461</width>
+     <height>271</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/background/pictures/等待下载.jpg);</string>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>400</y>
+     <width>421</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 18pt &quot;Muyao-Softbrush&quot;;
+text-decoration: underline;</string>
+   </property>
+   <property name="text">
+    <string>请耐心等待一会儿
+马上完事儿ψ(｀∇´)ψ</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="main_picture.qrc"/>
+ </resources>
+ <connections/>
+</ui>

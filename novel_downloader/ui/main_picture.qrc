@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="background">
+    <file>pictures/等待下载.jpg</file>
+    <file>pictures/穿越架空.jpg</file>
+    <file>pictures/游戏竞技.jpg</file>
+    <file>pictures/历史军事.jpg</file>
+    <file>pictures/科幻灵异.jpg</file>
+    <file>pictures/社会文学.jpg</file>
+    <file>pictures/都市言情.jpg</file>
+    <file>pictures/同人动漫.jpg</file>
+    <file>pictures/武侠修真.jpg</file>
+    <file>pictures/综合其他.jpg</file>
+    <file>pictures/玄幻魔法.jpg</file>
+    <file>pictures/浅色纹理.jpg</file>
+    <file>pictures/功夫.jpg</file>
+    <file>pictures/白色透明背景.png</file>
+    <file>pictures/Swordsman Mountain Manor.png</file>
+    <file>pictures/MainWindow_background.jpg</file>
+    <file>pictures/太极.jpg</file>
+  </qresource>
+</RCC>
