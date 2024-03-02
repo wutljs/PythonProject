@@ -18,7 +18,7 @@ def get_feature(img):
     return result.reshape((1, 16))
 
 
-print('电信2101娄倞硕-0122109360319')
+print('电信2101娄倞硕--0122109360319')
 digits, targets = load_digits(return_X_y=True)
 print(len(digits))
 

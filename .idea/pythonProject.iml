@@ -5,7 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/DrawBoard" />
       <excludeFolder url="file://$MODULE_DIR$/big_data_homework" />
       <excludeFolder url="file://$MODULE_DIR$/hongshi" />
-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/novel_downloader" />
+      <excludeFolder url="file://$MODULE_DIR$/wuai_pojie" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (pythonProject) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
